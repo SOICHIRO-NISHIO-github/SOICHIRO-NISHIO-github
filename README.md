@@ -1,4 +1,17 @@
 ### Hi there 👋
+## NISHIO SOICHIRO
+
+japanese
+
+cant english very well
+
+### language:
+😄python ： maybe main
+
+😅c : can use a bit
+
+📝go : still learning
+
 
 <!--
 **SOICHIRO-NISHIO-github/SOICHIRO-NISHIO-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
