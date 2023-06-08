@@ -3,7 +3,11 @@
 
 japanese
 
-cant english very well
+cant english 
+
+基本的に画像処理の人間です。
+
+なんかちょっとしたものがあれば随時挙げていきます。
 
 ### language:
 😄python： maybe main 
