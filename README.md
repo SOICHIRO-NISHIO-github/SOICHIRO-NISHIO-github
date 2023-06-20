@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## NISHIO SOICHIRO
 
+![7697B8F9-0926-4E8A-9F49-7FAD5E831FC2](https://github.com/SOICHIRO-NISHIO-github/SOICHIRO-NISHIO-github/assets/130431199/ba645734-d92c-4dbe-8a8e-bf586d168494)
+
 japanese
 
 cant english 
